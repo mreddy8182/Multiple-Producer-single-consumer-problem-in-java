@@ -52,7 +52,6 @@ w
 x
 y
 z
-Worker name: Thread 2, Palindrome count: 26
 bog
 gob
 bon
@@ -191,7 +190,6 @@ tot
 way
 yaw
 wow
-Worker name: Thread 1, Palindrome count: 152
 civic
 deed
 deep
@@ -242,7 +240,6 @@ loop
 pool
 loot
 tool
-Worker name: Thread 1, Palindrome count: 0
 mart
 tram
 meet
@@ -258,7 +255,6 @@ teet
 toot
 tort
 trot
-Worker name: Thread 0, Palindrome count: 78
 lager
 regal
 leper
@@ -273,10 +269,6 @@ refer
 rever
 rotor
 tenet
-Worker name: Thread 4, Palindrome count: 15
-Worker name: Thread 4, Palindrome count: 0
-Worker name: Thread 0, Palindrome count: 0
-Worker name: Thread 1, Palindrome count: 0
 AC
 CA
 ah
@@ -308,16 +300,8 @@ no
 on
 TV
 VT
-Worker name: Thread 2, Palindrome count: 31
-Worker name: Thread 3, Palindrome count: 0
-Worker name: Thread 4, Palindrome count: 0
-Worker name: Thread 0, Palindrome count: 0
-Worker name: Thread 1, Palindrome count: 0
-Worker name: Thread 2, Palindrome count: 0
-Worker name: Thread 3, Palindrome count: 0
-Worker name: Thread 4, Palindrome count: 0
-Worker name: Thread 0, Palindrome count: 0
-Worker name: Thread 3, Palindrome count: 0
-Worker name: Thread 3, Palindrome count: 0
-Worker name: Thread 2, Palindrome count: 0
-Worker name: Thread 0, Palindrome count: 0
+
+
+
+Worker name: Thread 2, Palindrome count: 26  Worker name: Thread 1, Palindrome count: 152  Worker name: Thread 1, Palindrome count: 0  Worker name: Thread 0, Palindrome count: 78  Worker name: Thread 4, Palindrome count: 15  Worker name: Thread 4, Palindrome count: 0  Worker name: Thread 0, Palindrome count: 0  Worker name: Thread 1, Palindrome count: 0  Worker name: Thread 2, Palindrome count: 31  Worker name: Thread 3, Palindrome count: 0  Worker name: Thread 4, Palindrome count: 0  Worker name: Thread 0, Palindrome count: 0  Worker name: Thread 1, Palindrome count: 0  Worker name: Thread 2, Palindrome count: 0  Worker name: Thread 3, Palindrome count: 0  Worker name: Thread 4, Palindrome count: 0  Worker name: Thread 0, Palindrome count: 0  Worker name: Thread 3, Palindrome count: 0  Worker name: Thread 3, Palindrome count: 0  Worker name: Thread 2, Palindrome count: 0  Worker name: Thread 0, Palindrome count: 0   
+Total Palindrome count: 302

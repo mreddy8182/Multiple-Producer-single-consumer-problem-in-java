@@ -10,6 +10,11 @@ import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.stream.Collectors;
 
+
+//This file is used to create the result file that have
+//correct format of the output as mentioned in the assignment
+//first all the palindrome will comes and then at the end 
+//thread count and total palindrome will come
 public class OutPut_Filehandler {
 
 	static int file_checker = 0;
@@ -17,7 +22,6 @@ public class OutPut_Filehandler {
 		
 		
 	}
-	
 	
 	static void fileformat() throws FileNotFoundException, IOException
 	{
@@ -83,7 +87,7 @@ public class OutPut_Filehandler {
 {
 	 PrintWriter writer = null;
 	 FileWriter write = null;
-	 File file = new File("result1.txt");
+	 File file = new File("Finalresult.txt");
 	 if (!file.exists()) {
 	 file.createNewFile();
 	}

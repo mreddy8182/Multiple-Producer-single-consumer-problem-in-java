@@ -25,10 +25,11 @@ public class Consumer extends Thread {
 		synchronized (sharedArr){
 		while(sharedArr.isEmpty()){
 		sharedArr.wait();
-	}
+		//System.out.println("aaaaaa");
+		}
 		filewriter();
 		sharedArr.clear();
-		sharedArr.notifyAll();
+		//sharedArr.notifyAll();
 	}
 }
 

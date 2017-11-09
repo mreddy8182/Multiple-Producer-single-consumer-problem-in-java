@@ -87,7 +87,7 @@ boolean palindrome(String temp, ArrayList<String> task )
 							b = 0;
 						}
 					
-					sharedArr.notifyAll();
+					sharedArr.notify();
 				
 				}
 			}
@@ -105,8 +105,8 @@ boolean palindrome(String temp, ArrayList<String> task )
 			if(task.size() == 0)
 			{synchronized(sharedArr)
 				{
-				sharedArr.add(threadname + counter);
-				sharedArr.notifyAll();
+					sharedArr.add(threadname + counter);
+					sharedArr.notifyAll();
 				}
 			}
 			
